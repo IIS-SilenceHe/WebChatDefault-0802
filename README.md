@@ -1,4 +1,4 @@
-WebChatDefault-0802
-===================
+WebChatDefault-1
+================
 
-Socket.io chat app for WAMS with node version 0.8.2
+Tests the side-by-side NPM infrastructure for the default version of node.js.  Uses a package.json with a 0.8.2 engine entry.
